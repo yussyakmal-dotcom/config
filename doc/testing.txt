@@ -1,0 +1,2 @@
+Testing GitHub repository ODOO CONFIG.
+File ini dibuat untuk memastikan akses tulis ke repository berhasil.
